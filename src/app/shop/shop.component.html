@@ -1,0 +1,17 @@
+<div *ngIf="products">
+    Total Cost <span>{{ cartTotal.toFixed(2) }}</span>
+    <p>List of Products</p>
+    <ul>
+        <li *ngFor="let item of products.data">
+            <div>
+                Id: {{ item.id }}<br>
+                Name: {{ item.name }}<br>
+                Price: {{ item.price }}<br>
+
+                <small (click)="addToCart(item.id, item.price)">[add to cart]</small>
+            </div>            
+            
+        </li>
+    </ul>
+</div>
+
