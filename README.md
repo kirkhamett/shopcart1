@@ -17,6 +17,7 @@ Notes/nice to have:
 * only total cart cost is computed, items and no. of items in cart not saved/displayed
 * best practices not followed
 * code not very optimized
+* The updated files are: shop.service.ts, shop.component.ts and shop.component.html
 
 
 ## screenshot
