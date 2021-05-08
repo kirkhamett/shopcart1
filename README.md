@@ -1,3 +1,7 @@
+## Dependencies
+* node
+* npm
+
 ## Instructions 
 
 * $ ng new <app-name> 
@@ -10,11 +14,15 @@ I solemnly swear that I completed this exercise on my own in approximately 47 mi
 Please note that approx 17 min was used to setup the app and download app dependencies (node_modules)
 
 
+Application build using Angular 11 
+
 Notes/nice to have:
 * bare minimum requirements
 * no css
 * no unit test
 * only total cart cost is computed, items and no. of items in cart not saved/displayed
+* best practices not followed
+* code not very optimized
 
 
 ## screenshot
