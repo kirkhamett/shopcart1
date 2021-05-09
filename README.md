@@ -7,8 +7,8 @@
 
 
 I solemnly swear that I completed this exercise on my own in approximately 47 minutes. 
-Please note that approx 17 min was used to setup the app and download app dependencies (node_modules)
 
+* Please note that approx 17 min was used to setup the app and download app dependencies (node_modules)
 
 Notes/nice to have:
 * bare minimum requirements
