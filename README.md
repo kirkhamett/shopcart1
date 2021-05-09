@@ -1,6 +1,6 @@
 ## Instructions 
 
-* $ ng new <app-name> 
+* $ npm install
 * go to http://localhost:4200/
 
 ## Notes
