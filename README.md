@@ -1,6 +1,7 @@
 ## Instructions 
 
 * $ npm install
+* $ ng serve --open
 * go to http://localhost:4200/
 
 ## Notes
